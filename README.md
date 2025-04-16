@@ -11,10 +11,20 @@ An in-depth data analysis project focused on understanding the spread, trends, a
 - Visualization using Matplotlib and Seaborn
 - Correlation between health indicators and infection rate
 
-## Usage
-Launch the Jupyter Notebook and run the analysis:
+## Technologies Used
 
-```bash
-jupyter notebook covid_analysis.ipynb
-```
-## 
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
+## Visualisation
+
+
+
+## Datasets
+
+Dataset Source: 
+
+
