@@ -5,3 +5,16 @@ An in-depth data analysis project focused on understanding the spread, trends, a
 
 ## Features
 
+- Time-series analysis of confirmed, recovered, and death cases
+- Country-wise infection rate trends
+- Maximum infection rate analysis
+- Visualization using Matplotlib and Seaborn
+- Correlation between health indicators and infection rate
+
+## Usage
+Launch the Jupyter Notebook and run the analysis:
+
+```bash
+jupyter notebook covid_analysis.ipynb
+```
+## 
